@@ -18,5 +18,5 @@
     echo  "Error: " . $sql . "<br>" . mysqli_error($con);
   }
 
-  header('Refresh: 1; URL=http://localhost/wp/RADARI/index.html');
+  header('Refresh: 1; URL=http://localhost/wp/RADARI/E-Radari/index.html');
 ?>

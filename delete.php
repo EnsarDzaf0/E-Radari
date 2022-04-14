@@ -19,7 +19,7 @@ if (isset($_GET['id'])) {
         echo "Error:" . $sql . "<br>" . $con->error;
 
     }
-    header('Refresh: 3; URL=http://localhost/wp/RADARI/index.html');
+    header('Refresh: 3; URL=http://localhost/wp/RADARI/E-Radari/index.html');
 } 
 
 ?>
